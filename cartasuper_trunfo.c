@@ -7,7 +7,7 @@
 int main() {
   char Estado = A;
   char Codigo = A01;
-  char Cidade = Sao_Pauulo;
+  char Cidade = Sao_Paulo;
   int Populucao = 12325000;
   float Area = 1521,11 km²;
   float PIB = 699,28 Bi_reais;
