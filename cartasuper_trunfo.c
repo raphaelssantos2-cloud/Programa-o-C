@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-char Estado[] = "São Paulo";
+    char Estado[] = "São Paulo";
     char Codigo[] = "A01";
     char Cidade[] = "São Paulo";
     int Populacao = 12325000;
